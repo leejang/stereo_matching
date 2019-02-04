@@ -1,0 +1,238 @@
+MRF based stereo reconstruction start!
+Block matching 
+time: 2055.04
+MRF stereo technique mean error = 16.8365
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 2.30022e+08 (0,2.30022e+08)
+energy = 1.41961e+07 (7.937002 secs)
+time: 7969.95
+MRF stereo technique mean error = 14.368
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 2.30022e+08 (0,2.30022e+08)
+energy = 1.42038e+07 (9.013596 secs)
+time: 9019.05
+MRF stereo technique mean error = 14.5495
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 2.30022e+08 (0,2.30022e+08)
+energy = 1.41991e+07 (8.413702 secs)
+time: 8419.47
+MRF stereo technique mean error = 14.4445
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Block matching 
+time: 1981.08
+MRF stereo technique mean error = 22.2529
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 8.0273e+07 (0,8.0273e+07)
+energy = 4.40797e+06 (7.655570 secs)
+time: 7687.48
+MRF stereo technique mean error = 10.6317
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 8.0273e+07 (0,8.0273e+07)
+energy = 4.44007e+06 (68.168831 secs)
+time: 68174.2
+MRF stereo technique mean error = 15.3948
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 8.0273e+07 (0,8.0273e+07)
+energy = 4.40108e+06 (8.813820 secs)
+time: 8819.34
+MRF stereo technique mean error = 12.8697
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Block matching 
+time: 2340.7
+MRF stereo technique mean error = 42.9404
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 2.08977e+08 (0,2.08977e+08)
+energy = 3.91942e+06 (9.097327 secs)
+time: 9134.11
+MRF stereo technique mean error = 22.1779
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 2.08977e+08 (0,2.08977e+08)
+energy = 3.90232e+06 (19.192171 secs)
+time: 19197.6
+MRF stereo technique mean error = 25.2711
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 2.08977e+08 (0,2.08977e+08)
+energy = 3.88591e+06 (18.204218 secs)
+time: 18209.9
+MRF stereo technique mean error = 26.5481
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Block matching 
+time: 2486.4
+MRF stereo technique mean error = 46.2057
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 2.67676e+08 (0,2.67676e+08)
+energy = 1.31748e+07 (9.642065 secs)
+time: 9681
+MRF stereo technique mean error = 43.6978
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 2.67676e+08 (0,2.67676e+08)
+energy = 1.3184e+07 (19.929113 secs)
+time: 19935
+MRF stereo technique mean error = 44.9179
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 2.67676e+08 (0,2.67676e+08)
+energy = 1.31695e+07 (36.557606 secs)
+time: 36563.7
+MRF stereo technique mean error = 44.083
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Block matching 
+time: 2802.86
+MRF stereo technique mean error = 30.0376
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 4.63454e+08 (0,4.63454e+08)
+energy = 1.28382e+07 (10.756593 secs)
+time: 10799.4
+MRF stereo technique mean error = 26.3705
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 4.63454e+08 (0,4.63454e+08)
+energy = 1.28401e+07 (18.307129 secs)
+time: 18312.9
+MRF stereo technique mean error = 26.638
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 4.63454e+08 (0,4.63454e+08)
+energy = 1.2833e+07 (12.866430 secs)
+time: 12872.3
+MRF stereo technique mean error = 26.1283
+MRF Stereo Reconstruction Completed!
+
+----------------------------------------------------
+
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 2.30022e+08 (0,2.30022e+08)
+energy = 1.42499e+07 (7.951686 secs)
+time: 7984.24
+MRF stereo technique mean error = 14.4667
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 2.30022e+08 (0,2.30022e+08)
+energy = 1.41545e+07 (6.922515 secs)
+time: 6927.95
+MRF stereo technique mean error = 15.1546
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 2.30022e+08 (0,2.30022e+08)
+energy = 1.41532e+07 (8.475402 secs)
+time: 8481.14
+MRF stereo technique mean error = 15.071
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 8.0273e+07 (0,8.0273e+07)
+energy = 4.48069e+06 (7.656060 secs)
+time: 7687.79
+MRF stereo technique mean error = 10.6872
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 8.0273e+07 (0,8.0273e+07)
+energy = 4.34768e+06 (7.840290 secs)
+time: 7845.59
+MRF stereo technique mean error = 16.276
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 8.0273e+07 (0,8.0273e+07)
+energy = 4.34511e+06 (8.941756 secs)
+time: 8947.22
+MRF stereo technique mean error = 16.0123
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 2.08977e+08 (0,2.08977e+08)
+energy = 4.07091e+06 (8.989336 secs)
+time: 9025.75
+MRF stereo technique mean error = 22.332
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 2.08977e+08 (0,2.08977e+08)
+energy = 3.87911e+06 (12.506825 secs)
+time: 12512.2
+MRF stereo technique mean error = 31.2677
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 2.08977e+08 (0,2.08977e+08)
+energy = 3.8758e+06 (13.900010 secs)
+time: 13905.6
+MRF stereo technique mean error = 31.073
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 2.67676e+08 (0,2.67676e+08)
+energy = 1.3399e+07 (9.502755 secs)
+time: 9541.47
+MRF stereo technique mean error = 43.026
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 2.67676e+08 (0,2.67676e+08)
+energy = 1.31781e+07 (10.970825 secs)
+time: 10976.6
+MRF stereo technique mean error = 46.5477
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 2.67676e+08 (0,2.67676e+08)
+energy = 1.31701e+07 (14.209651 secs)
+time: 14215.7
+MRF stereo technique mean error = 46.0795
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Loopy Belief Propagation.
+Energy at the Start = 4.63454e+08 (0,4.63454e+08)
+energy = 1.43089e+07 (9.386849 secs)
+time: 9424.91
+MRF stereo technique mean error = 25.4853
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha-Beta Swap
+Energy at the Start = 4.63454e+08 (0,4.63454e+08)
+energy = 1.41599e+07 (10.496045 secs)
+time: 10501.9
+MRF stereo technique mean error = 26.1881
+MRF Stereo Reconstruction Completed!
+MRF based stereo reconstruction start!
+Graph Cuts: Alpha Expansion
+Energy at the Start = 4.63454e+08 (0,4.63454e+08)
+energy = 1.41566e+07 (13.644124 secs)
+time: 13650
+MRF stereo technique mean error = 26.0319
+MRF Stereo Reconstruction Completed!
